@@ -15,7 +15,7 @@ You can try a [finished version of the game](https://CS-4388-Fall-2024.github.io
 
 ## Repository Setup
 
-We are using GitHub classroom for submission of programming assignments.  When you accept the first assignment, you will need to select your netid from the class roster. The system will then create a new private repository with template code that is only accessible by you, the instructor, and the TAs. You will need to create a GitHub.com account if you do not already have one.  Note that this is different from the University's github.umn.edu account.  
+We are using GitHub classroom for submission of programming assignments.  When you accept the first assignment, you will need to select your netid from the class roster. The system will then create a new private repository with template code that is only accessible by you, the instructor, and the TAs. You will need to create a GitHub.com account if you do not already have one.  Note that this is different from the University's Github account.  
 
 **Step 1:** Create your private repository using the following link: https://classroom.github.com/a/N_w2sc8O
 
