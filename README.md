@@ -4,3 +4,4 @@
 
 **Assignment 3:** [Earthquake Visualization](https://github.com/CS-4388-Fall-2024/Assignments/blob/main/Assignment-3/README.md)
 
+**Assignment 4:** [So You Think Ants Can Dance](https://github.com/CS-4388-Fall-2024/Assignments/blob/main/Assignment-4/README.md)
