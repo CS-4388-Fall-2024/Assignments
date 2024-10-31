@@ -17,7 +17,7 @@ You can try out the [instructor's implementation](https://CS-4388-Fall-2024.gith
 
 We are using GitHub classroom for submission of programming assignments.  When you accept the first assignment, you will need to select your x500 from the class roster. The system will then create a new private repository with template code that is only accessible by you, the instructor, and the TAs. You will need to create a GitHub.com account if you do not already have one.  Note that this is different from the University's Github account.  
 
-**Step 1:** Create your private repository using the following link: 
+**Step 1:** Create your private repository using the following link: https://classroom.github.com/a/uyzQ9dHv
 
 **Step 2:** Your repository will be added to the [GitHub course organization](https://github.com/CS-4388-Fall-2024).  You will need to open your repository on GitHub, then go to Settings->Pages and change the build and deployment source to `GitHub Actions`, as shown in the image below.  You **must** complete this step or you will not be able to to deploy the finished assignment.
 
