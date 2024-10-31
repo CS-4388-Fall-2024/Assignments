@@ -1,6 +1,8 @@
 # Assignment 4: So You Think Ants Can Dance
 
-**Due: Wednesday, October 30, 11:59pm CDT**
+**~~Due: Wednesday, October 30, 11:59pm CDT~~** 
+
+**Due: Friday, November 01, 11:59pm CDT  (Extended)**
 
 Animated characters are an important part of computer games and other interactive graphics. In this assignment, you will learn how to animate computer graphics characters using data from motion capture systems. You will be working with data from the [Carnegie Mellon motion capture database](http://mocap.cs.cmu.edu/), a great resource of free "mocap" data. The data will be formatted as text files, but with your programming and math skills, you will bring this data to life on the dance floor!
 
