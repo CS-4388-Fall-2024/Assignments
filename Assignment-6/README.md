@@ -1,6 +1,8 @@
 # Assignment 6: A World of Drawings
 
-**Due: Wednesday, December 04, 11:59pm CDT**
+**~~Due: Wednesday, December 04, 11:59pm CDT~~**
+
+**Due: Wednesday, December 06, 11:59pm CDT (Extended)**
 
 The culminating assignment in the course is inspired by the 1955 children's book, [Harold and the Purple Crayon](https://en.wikipedia.org/wiki/Harold_and_the_Purple_Crayon) by Crockett Johnson. Harold is a little boy who creates his own virtual worlds just by drawing them with his magical purple crayon. In this assignment, you will bring Harold's magic to your computer screen.
 
